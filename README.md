@@ -6,7 +6,7 @@ A solution that uses SDN to deal with IOT network traffic considering the requir
 
 This implementation uses the Mininet-wifi emulator (https://github.com/intrig-unicamp/mininet-wifi)
 
-The codes here refer to a performance evaluation is a scenario with nine IoT devices (stations) and three servers of different applications with a heterogeneous network with the representation of LTE, Wifi, and D2D (BLE) technologies.
+The codes here refer to a performance evaluation is a scenario with nine IoT devices (stations) and three servers of different applications in a heterogeneous network with the representation of LTE, Wifi, and D2D (BLE) technologies.
 
 <img src="https://github.com/saraivacode/iotsdn/blob/master/implementacao.jpg" width="700" height="500">
 
