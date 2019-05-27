@@ -1,5 +1,4 @@
 # iotsdn
-iotsdn
 
 ## About this code
 
@@ -30,7 +29,7 @@ https://github.com/saraivacode/framework_its_sdn/blob/master/carcon.sh
 ##### For Industrial Monitoring app: https://github.com/saraivacode/iotsdn/blob/master/carconiotim.sh
 ##### For Smart Home app: https://github.com/saraivacode/iotsdn/blob/master/carconiotsh.sh
 
-#### Codes to compile the results:
+#### 3. Codes to compile the results:
 
 ##### Shell code that is used to extract, from the files generated in emulation, the information necessary to compile the results:
 https://github.com/saraivacode/iotsdn/blob/master/tratamento_c3iot.sh
