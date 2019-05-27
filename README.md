@@ -8,7 +8,7 @@ This implementation uses the Mininet-wifi emulator (https://github.com/intrig-un
 
 The codes here refer to a performance evaluation is a scenario with nine IoT devices (stations) and three servers of different applications with a heterogeneous network with the representation of LTE, Wifi, and D2D (BLE) technologies.
 
-<img src="https://github.com/saraivacode/iotsdn/blob/master/implementacao.jpg" width="480">
+<img src="https://github.com/saraivacode/iotsdn/blob/master/implementacao.jpg" width="700">
 
 This implementation permits to compare the results of PDR, throughput and RTT obtained with the use of the proposed solution with the default one where the devices connects to a network without considering the requirements of the IoT applications.
 
