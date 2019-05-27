@@ -2,7 +2,7 @@
 
 ## About this code
 
-A solution that uses SDN to deal with IOT network traffic considering the requirements of different applications in a smart citie..
+A solution that uses SDN to deal with IOT network traffic considering the requirements of different applications in a smart citie.
 
 This implementation uses the Mininet-wifi emulator (https://github.com/intrig-unicamp/mininet-wifi)
 
